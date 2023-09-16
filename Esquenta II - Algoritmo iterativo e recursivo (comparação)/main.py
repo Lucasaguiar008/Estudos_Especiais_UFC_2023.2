@@ -1,4 +1,7 @@
 # Autor: Antônio Lucas Sousa Aguiar
+#############################################
+#### Para o funcionmento do algoritmo a pasta das instâncias N_Ordenadas deve ficar no mesmo diretório
+#### Não foi realizado o upload para o github pois excede o limite de espaço.
 
 import os
 import time
